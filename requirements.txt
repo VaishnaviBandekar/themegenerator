@@ -1,7 +1,6 @@
 flask
-flask-cors
-transformers
 torch
+transformers
 diffusers
 accelerate
-safetensors
+huggingface_hub
